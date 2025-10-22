@@ -1,0 +1,3 @@
+Task 3 – Time Series Analysis
+
+This task focuses on performing time series analysis on the **AirPassengers dataset**, which contains monthly airline passenger totals from 1949 to 1960. The dataset was preprocessed by converting the date column to a datetime index and visualized to observe trends and seasonality. The series was decomposed into trend, seasonal, and residual components, and a **SARIMAX model** was applied to forecast future passenger counts. The analysis revealed clear yearly seasonality and an upward trend, with accurate 12-month forecasts demonstrating how statistical models can effectively predict future trends in real-world time series data.
